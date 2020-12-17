@@ -1,0 +1,13 @@
+C:\Users\MAX\source\repos\csharp2\csharp2\bin\Debug\netcoreapp3.1\csharp2.exe
+C:\Users\MAX\source\repos\csharp2\csharp2\bin\Debug\netcoreapp3.1\csharp2.deps.json
+C:\Users\MAX\source\repos\csharp2\csharp2\bin\Debug\netcoreapp3.1\csharp2.runtimeconfig.json
+C:\Users\MAX\source\repos\csharp2\csharp2\bin\Debug\netcoreapp3.1\csharp2.runtimeconfig.dev.json
+C:\Users\MAX\source\repos\csharp2\csharp2\bin\Debug\netcoreapp3.1\csharp2.dll
+C:\Users\MAX\source\repos\csharp2\csharp2\bin\Debug\netcoreapp3.1\csharp2.pdb
+C:\Users\MAX\source\repos\csharp2\csharp2\obj\Debug\netcoreapp3.1\csharp2.csproj.CoreCompileInputs.cache
+C:\Users\MAX\source\repos\csharp2\csharp2\obj\Debug\netcoreapp3.1\csharp2.AssemblyInfoInputs.cache
+C:\Users\MAX\source\repos\csharp2\csharp2\obj\Debug\netcoreapp3.1\csharp2.AssemblyInfo.cs
+C:\Users\MAX\source\repos\csharp2\csharp2\obj\Debug\netcoreapp3.1\csharp2.dll
+C:\Users\MAX\source\repos\csharp2\csharp2\obj\Debug\netcoreapp3.1\csharp2.pdb
+C:\Users\MAX\source\repos\csharp2\csharp2\obj\Debug\netcoreapp3.1\csharp2.genruntimeconfig.cache
+C:\Users\MAX\source\repos\csharp2\csharp2\obj\Debug\netcoreapp3.1\csharp2.csprojAssemblyReference.cache
